@@ -2,6 +2,6 @@ streamlit
 pandas
 numpy
 plotly
-opencv-python-headless  <-- 必须是这个headless版本
+opencv-python-headless
 Pillow
 streamlit-gsheets

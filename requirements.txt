@@ -4,4 +4,4 @@ numpy
 plotly
 opencv-python-headless
 Pillow
-streamlit-gsheets
+st-gsheets-connection

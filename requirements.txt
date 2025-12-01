@@ -3,5 +3,5 @@ pandas
 numpy
 plotly
 opencv-python-headless
-pillow
-streamlit-gsheets
+Pillow
+st-gsheets-connection
